@@ -30,3 +30,5 @@ _check all instructions that GitHub gives you_
 in remote repo**
 
 Check issues with merging
+
+**Test message**
