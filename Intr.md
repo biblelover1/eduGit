@@ -19,3 +19,11 @@
 ## Работа с фото
 Чтобы вставить фото, напиши: ![текст](имя фото в репозитории), например: 
 ![Фото](%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC.PNG)
+
+## Work with remote repository 
+  
+_check all instructions that GitHub gives you_
+  
+  *git clone* - **clone remote repositiry**
+  
+  *git pull* - **use this command to send changes in remote repo**
