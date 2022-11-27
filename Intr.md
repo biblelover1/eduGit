@@ -28,3 +28,5 @@ _check all instructions that GitHub gives you_
   
 *git pull* - **use this command to send changes 
 in remote repo**
+
+Check issues with merging
