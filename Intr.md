@@ -24,6 +24,6 @@
   
 _check all instructions that GitHub gives you_
   
-  *git clone* - **clone remote repositiry**
+*git clone* - **clone remote repositiry**
   
-  *git pull* - **use this command to send changes in remote repo**
+*git pull* - **use this command to send changes in remote repo**
